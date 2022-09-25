@@ -1,0 +1,8 @@
+if b >= 1:
+        while time < 1000:
+            time +=2
+            print('cas:',time)
+            if time >= 1000:
+                b -= 1
+                
+        print(b)
